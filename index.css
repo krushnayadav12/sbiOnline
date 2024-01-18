@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.dropdown-menu a:hover{
+    background:#0e463b;
+} 
+header .navbar-nav a:hover{
+    background: #5ba6df ;
+}
