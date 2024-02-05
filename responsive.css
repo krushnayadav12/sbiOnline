@@ -1,0 +1,35 @@
+.k_bg_primary {
+    background: #1A71B5;
+}
+
+.k_bg_primary2 {
+    background: #3FA1D1;
+}
+.k_bg_primary3 {
+    background: #10578D;
+}
+.k_bg_light2 {
+    background: #FAFAFA;
+}
+
+.k_text-primary {
+    color: #10578D;
+}
+.k_text_primary2 {
+    color: #1B75BC !important;
+}
+
+.k_personal_banking_banner .nav .nav-item:last-child .nav-link {
+    border: none;
+}
+
+.k_personal_banking_banner .nav .nav-item .nav-link {
+    font-size: 12px;
+    color: #10578D !important;
+    padding: 0px 10px;
+    border-right: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+.k_fs_11{
+    font-size: 11px !important;
+}
