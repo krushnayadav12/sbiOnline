@@ -177,3 +177,21 @@ header .k_bottom a:hover {
     cursor: pointer;
     justify-content: center;
 }
+
+.k_tips_box_li ul{
+    text-decoration: none;
+    list-style: none;
+}
+.k_tips_box_li li{
+    margin: 5px;
+}
+
+.k_tips_box_li li a{
+    text-decoration: none !important;
+    font-size: 13px;
+    border-bottom: 1px solid rgb(196, 196, 196);
+}
+.k_tips_box_li li a:hover{
+    text-decoration: underline !important;
+   
+}
